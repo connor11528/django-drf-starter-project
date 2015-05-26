@@ -1,6 +1,11 @@
 django_drf_starter_project
 ====
 
+[![endorse](https://api.coderwall.com/cleechtech/endorsecount.png)](https://coderwall.com/cleechtech)
+
+
+This sets up a bare bones project with django rest framework
+
 ### Set up virtual environment
 
 ```
